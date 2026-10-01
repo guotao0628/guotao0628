@@ -8,11 +8,11 @@
 
 <!-- ═══════════ 导航栏（网站语义色：绿/琥珀/青） ═══════════ -->
 
-[![首页](https://img.shields.io/badge/%E9%A6%96%E9%A1%B5-geoturinglab.com-4ade80?style=flat-square&logo=googlechrome&logoColor=14210f)](https://geoturinglab.com/)
-[![著译作](https://img.shields.io/badge/%E8%91%97%E8%AF%91%E4%BD%9C-46%E9%83%A8-ffb000?style=flat-square)](https://geoturinglab.com/publications.html)
-[![项目](https://img.shields.io/badge/%E9%A1%B9%E7%9B%AE-34%E9%A1%B9-6cc4ff?style=flat-square)](https://geoturinglab.com/projects.html)
-[![论文](https://img.shields.io/badge/%E8%AE%BA%E6%96%87-32%E7%AF%87-4ade80?style=flat-square)](https://geoturinglab.com/papers.html)
-[![软著](https://img.shields.io/badge/%E8%BD%AF%E8%91%97-25%E9%A1%B9-ffb000?style=flat-square)](https://geoturinglab.com/ip.html)
+[![首页](https://img.shields.io/badge/%E9%A6%96%E9%A1%B5-geoturinglab.com-0c6431?style=flat-square&logo=googlechrome&logoColor=white)](https://geoturinglab.com/)
+[![著译作](https://img.shields.io/badge/%E8%91%97%E8%AF%91%E4%BD%9C-965300?style=flat-square)](https://geoturinglab.com/publications.html)
+[![项目](https://img.shields.io/badge/%E9%A1%B9%E7%9B%AE-0a5f86?style=flat-square)](https://geoturinglab.com/projects.html)
+[![论文](https://img.shields.io/badge/%E8%AE%BA%E6%96%87-0c6431?style=flat-square)](https://geoturinglab.com/papers.html)
+[![软著](https://img.shields.io/badge/%E8%BD%AF%E8%91%97-965300?style=flat-square)](https://geoturinglab.com/ip.html)
 
 </div>
 
@@ -56,11 +56,11 @@
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/geoturinglab.com-访问个人网站-4ade80?style=for-the-badge&logo=googlechrome&logoColor=14210f)](https://geoturinglab.com/)
+[![Website](https://img.shields.io/badge/geoturinglab.com-访问个人网站-0c6431?style=for-the-badge&logo=googlechrome&logoColor=white)](https://geoturinglab.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-@guotao0628-232321?style=for-the-badge&logo=github&logoColor=f6f5f1)](https://github.com/guotao0628)
 
 <!-- ═══════════ 页脚（与顶部呼应的暖黑波浪） ═══════════ -->
 
-[![](https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:2b2b28,55:262624,100:1a1a18)](https://geoturinglab.com/)
+[![](https://capsule-render.vercel.app/api?type=waving&height=60&section=footer&color=0:2b2b28,55:262624,100:1a1a18)](https://geoturinglab.com/)
 
 </div>
