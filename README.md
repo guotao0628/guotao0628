@@ -1,10 +1,9 @@
 <div align="center">
 
-![Taogoal](https://capsule-render.vercel.app/api?type=waving\&height=200\&section=header\&text=Taogoal\&fontSize=64\&fontColor=ffffff\&animation=fadeIn\&desc=资深技术实践者%20·%20畅销书作者%20·%20AI%20工程师\&descSize=20\&descAlignY=72\&color=0:1e3a8a,55:2563eb,100:0ea5e9)
+[![Taogoal](https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Taogoal&fontSize=64&fontColor=ffffff&animation=fadeIn&desc=资深技术实践者%20·%20畅销书作者%20·%20AI%20工程师&descSize=20&descAlignY=72&color=0:1e3a8a,55:2563eb,100:0ea5e9)](https://geoturinglab.com/)
 
-![Website](https://img.shields.io/badge/geoturinglab.com-访问个人网站-2563eb?style=for-the-badge\&logo=googlechrome\&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-@guotao0628-181717?style=for-the-badge\&logo=github\&logoColor=white)
+[![Website](https://img.shields.io/badge/geoturinglab.com-访问个人网站-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://geoturinglab.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-@guotao0628-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guotao0628)
 
 </div>
 
@@ -14,23 +13,11 @@
 
 <div align="center">
 
-### 🔢 数字一览
+### 🌐 个人网站一览
 
-![](https://img.shields.io/badge/出版著（译）作-46_部-2563eb?style=flat-square)
+<a href="https://geoturinglab.com/"><img src="homepage.jpg" width="820" alt="geoturinglab.com 首页预览"/></a>
 
-![](https://img.shields.io/badge/主持/参与项目-34_项-0ea5e9?style=flat-square)
-
-![](https://img.shields.io/badge/学术论文-32_篇-8b5cf6?style=flat-square)
-
-![](https://img.shields.io/badge/软件著作权-25_项-10b981?style=flat-square)
-
-### 📚 代表译作
-
-<a href="https://item.jd.com/15351556.html"><img src="https://geoturinglab.com/covers/9787302709961.jpg" width="130" alt="Agentic AI 智能体应用开发（第2版）"/></a>  
-    
-<a href="https://item.jd.com/15443106.html"><img src="https://geoturinglab.com/covers/9787302714514.jpg" width="130" alt="大模型前沿与实践"/></a>
-
-*[全部 46 部著译作 →](https://geoturinglab.com/publications.html)*
+*👆 点击图片直达 [geoturinglab.com](https://geoturinglab.com/)*
 
 </div>
 
@@ -44,6 +31,6 @@
 
 <div align="center">
 
-![](https://capsule-render.vercel.app/api?type=waving\&height=110\&section=footer\&color=0:0ea5e9,55:2563eb,100:1e3a8a)
+[![](https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0ea5e9,55:2563eb,100:1e3a8a)](https://geoturinglab.com/)
 
 </div>
